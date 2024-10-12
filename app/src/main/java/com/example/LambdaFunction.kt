@@ -14,3 +14,4 @@ fun main() {
     uppercaseString("hello")
     println({string: String -> string.uppercase()}("hello"))
 }
+
